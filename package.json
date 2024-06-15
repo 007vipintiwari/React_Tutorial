@@ -1,0 +1,14 @@
+{
+  "name": "react_tutorial",
+  "version": "1.0.0",
+  "description": "This is react tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "vipin",
+  "license": "ISC"
+}
